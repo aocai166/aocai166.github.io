@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ao's Homepage"
 title_separator          : "-"
 name                     : &name "Ao Cai"
-description              : &description "Computational Geophysicist"
+description              : &description "Computational Geophysicist | PhD @ Rice University"
 url                      : https://aocai166.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aocai166/aocai166.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ao Cai"
   avatar           : "profile.png"
-  bio              : "Computational Geophysicist"
+  bio              : "Computational Geophysicist | PhD @ Rice University"
   location         : "Houston"
   employer         :
   pubmed           : 
