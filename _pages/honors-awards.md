@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Honors & Awards"
+title: "Honors and Awards"
 permalink: /honors-awards.html
 redirect_from: 
   - /honors-awards/
