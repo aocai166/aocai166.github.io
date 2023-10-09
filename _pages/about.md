@@ -14,6 +14,6 @@ Recent News
 ======
 July, 2022:  serve as a technical geophysicist at Chevron working on the technical support and developments for scientific seismic imaging softwares (e.g., Gaussian Beam Migration; Least-square Reverse Time Migration). My developments include Java (front-end GUI), Python (data pipeline) and C++ (back-end algorithms).
 
-May, 2022: I graduated from Rice University with a Ph.D. in computational geophysicist!
+May, 2022: I graduated from Rice University with a Ph.D. in computational geophysics!
 
 
