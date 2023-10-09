@@ -3,7 +3,7 @@ title: "Sensitivity analysis of acoustic waveform inversion to velocity anomalie
 collection: talks
 type: "Talk"
 permalink: /talks/2022-09-01-talk-IMAGE
-venue: "Society of Exploration Geophysicists"
+venue: "Poster Presentation at Society of Exploration Geophysicists"
 date: 2022-09-01
 location: "Houston, Texas"
 ---
