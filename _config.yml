@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ao Cai"
-  avatar           : "Profile_photo.png"
+  avatar           : "/images/Profile_photo.jpg"
   bio              : "Computational Geophysicist | PhD @ Rice University"
   location         : "Houston"
   employer         :
