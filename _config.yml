@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ao Cai"
-  avatar           : "/images/Profile_photo.jpg"
+  avatar           : "Profile_photo.jpg"
   bio              : "Computational Geophysicist | PhD @ Rice University"
   location         : "Houston"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ao-cai-506b01113/"
   orcid            : "https://orcid.org/0000-0003-1406-0090"
   pinterest        :
   soundcloud       :
