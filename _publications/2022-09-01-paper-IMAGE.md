@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-09-01-paper-SEG
 excerpt: 'A sensitivity analysis of acoustic waveform inversion using the Fréchet derivative'
 date: 2022-09-01
-venue: 'SEG conference paper'
+venue: 'I conference paper'
 paperurl: 'https://library.seg.org/doi/abs/10.1190/image2022-3750607.1'
 citation: 'Cai, Ao, and Colin A. Zelt. "Sensitivity analysis of acoustic waveform inversion to velocity anomalies in the near-surface using the Fréchet derivative." Second International Meeting for Applied Geoscience & Energy. Society of Exploration Geophysicists and American Association of Petroleum Geologists, 2022.'
 ---
